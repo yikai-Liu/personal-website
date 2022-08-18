@@ -1,6 +1,6 @@
 ---
 title: Yikai Liu
-role: Professor of Artificial Intelligence
+role: Duke University
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
