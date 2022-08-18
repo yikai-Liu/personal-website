@@ -28,12 +28,12 @@ organizations:
     url: https://duke.edu/
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master in Computer Science
+      institution: Duke University
+      year: 2022
+    - course: Bachelor Science in Computer Science and Mathematics
+      institution: University of Michigan, Ann Arbor
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
